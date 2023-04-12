@@ -1,13 +1,11 @@
-# Pokémon Cards Holographic effect in CSS
+# Kitty Venture Card Collection
 
-This is a repository holder for the Pokemon Cards CSS Holographic effect.  
+This is a repository holder for the Kitty Venture.  
 
-🔥 As seen on [css-tricks.com](https://css-tricks.com/holographic-trading-card-effect/) and [codepen](https://codepen.io/simeydotme/pen/abYWJdX)  
-🌟 Demo running @ https://poke-holo.simey.me/
+🔥 Coming Soon!
+🌟 Demo running @ https://kittyventure.com/KV
 
-### A collection of advanced CSS styles, applied with SvelteJS.
-Uses CSS Transforms, Gradients, Blend-modes and Filters to simulate the various Holofoil effects found
-in the Sword and Shield era of Pokemon Trading Cards.
+### Still in the development phase, inshaAllah will be completed by 2024
 
 <img src="public/pokemon-cards-demo.gif" />
 
